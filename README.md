@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I'm **Irakli Ardia**, a passionate and experienced **Node.js Backend Developer** with over 5 years of expertise in building scalable backend systems, integrating APIs, and optimizing performance. I aim to create efficient, reliable, and maintainable systems while continuously learning and exploring new technologies.
+Welcome to my GitHub! I'm **Irakli Ardia**, a passionate and experienced **Node.js Backend Developer** with over 6 years of expertise in building scalable backend systems, integrating APIs, and optimizing performance. I aim to create efficient, reliable, and maintainable systems while continuously learning and exploring new technologies.
 
 ---
 
