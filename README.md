@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Welcome to my GitHub! I'm **Irakli Ardia**, a passionate and experienced **Node.js Backend Developer** with over 6 years of expertise in building scalable backend systems, integrating APIs, and optimizing performance. I aim to create efficient, reliable, and maintainable systems while continuously learning and exploring new technologies.
+Welcome to my GitHub! I'm **Irakli**, a passionate and experienced **Node.js Backend Developer** with over 6+ years of expertise in building scalable backend systems, integrating APIs, and optimizing performance. I aim to create efficient, reliable, and maintainable systems while continuously learning and exploring new technologies.
 
 ---
 
@@ -15,8 +15,8 @@ Welcome to my GitHub! I'm **Irakli Ardia**, a passionate and experienced **Node.
   - **SAP Services:** ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?logo=sap&logoColor=white) ![SAP CAP](https://img.shields.io/badge/SAP%20CAP-0FAAFF?logo=sap&logoColor=white) ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF?logo=sap&logoColor=white) ![XSUAA](https://img.shields.io/badge/XSUAA-0FAAFF?logo=sap&logoColor=white) ![OData](https://img.shields.io/badge/OData-0FAAFF?logo=sap&logoColor=white)
 
 - 📫 **How to Reach Me:**  
-  - **Email:** [irakli@ardia.ge](mailto:irakli@ardia.ge) | [irakli.ardia91@gmail.com](mailto:irakli.ardia91@gmail.com)
-  - **LinkedIn:** [linkedin.com/in/irakli-ardia](https://linkedin.com/in/irakli-ardia)
+  - **Email:** [irakli.core@gmail.com](mailto:irakli.core@gmail.com)
+  - **LinkedIn:** [linkedin.com/in/a-irakli](https://linkedin.com/in/a-irakli)
 
 ---
 
