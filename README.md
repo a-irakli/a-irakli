@@ -1,5 +1,3 @@
-## Hi there 👋
-
 Welcome to my GitHub! I'm **Irakli**, a passionate and experienced **Node.js Backend Developer** with over 6+ years of expertise in building scalable backend systems, integrating APIs, and optimizing performance. I aim to create efficient, reliable, and maintainable systems while continuously learning and exploring new technologies.
 
 ---
@@ -35,14 +33,7 @@ Welcome to my GitHub! I'm **Irakli**, a passionate and experienced **Node.js Bac
 ### 🌍 **Languages**
 
 - ![Georgian](https://img.shields.io/badge/Georgian-Native-blue)
-- ![English](https://img.shields.io/badge/English-B2-green)
+- ![English](https://img.shields.io/badge/English-C1-green)
 - ![Russian](https://img.shields.io/badge/Russian-B2-green)
-
----
-
-### 🎯 **Interests**
-
-- 📚 Reading | ✈️ Traveling | 🍳 Cooking | 🎥 Watching good movies
-- 👨‍💻 Exploring new technologies
 
 ---
