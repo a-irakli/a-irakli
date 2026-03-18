@@ -5,7 +5,6 @@ Welcome to my GitHub! I'm **Irakli**, a passionate and experienced **Node.js Bac
 ### 💻 **About Me**
 
 - 🔭 **Currently Working:** Senior Backend Developer at Proxied, building 5G mobile proxy.
-- 🌱 **Learning:** Advanced microservices architecture, cloud-native development, and SAP services integration.
 - 👨‍💻 **Tech Stack:**
   - **Languages:** ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
   - **Frameworks:** ![Express.js](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white) ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white) ![Adonis.js](https://img.shields.io/badge/Adonis.js-220052?logo=adonisjs&logoColor=white)
