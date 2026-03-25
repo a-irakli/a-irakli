@@ -34,5 +34,3 @@ Welcome to my GitHub! I'm **Irakli**, a passionate and experienced **Node.js Bac
 - ![Georgian](https://img.shields.io/badge/Georgian-Native-blue)
 - ![English](https://img.shields.io/badge/English-C1-green)
 - ![Russian](https://img.shields.io/badge/Russian-B2-green)
-
----
