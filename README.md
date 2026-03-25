@@ -13,7 +13,7 @@ Welcome to my GitHub! I'm **Irakli**, a passionate and experienced **Node.js Bac
   - **SAP Services:** ![SAP BTP](https://img.shields.io/badge/SAP%20BTP-0FAAFF?logo=sap&logoColor=white) ![SAP CAP](https://img.shields.io/badge/SAP%20CAP-0FAAFF?logo=sap&logoColor=white) ![SAP HANA](https://img.shields.io/badge/SAP%20HANA-0FAAFF?logo=sap&logoColor=white) ![XSUAA](https://img.shields.io/badge/XSUAA-0FAAFF?logo=sap&logoColor=white) ![OData](https://img.shields.io/badge/OData-0FAAFF?logo=sap&logoColor=white)
 
 - 📫 **How to Reach Me:**
-  - **Email:** [irakli.core@gmail.com](mailto:irakli.a@tutamail.com)
+  - **Email:** [irakli.a@tutamail.com](mailto:irakli.a@tutamail.com)
   - **LinkedIn:** [linkedin.com/in/a-irakli](https://linkedin.com/in/a-irakli)
 
 ---
