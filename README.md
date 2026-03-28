@@ -1,4 +1,4 @@
-Welcome to my GitHub! I'm **Irakli**, a passionate and experienced **Node.js Backend Developer** with over 6+ years of expertise in building scalable backend systems, integrating APIs, and optimizing performance. I aim to create efficient, reliable, and maintainable systems while continuously learning and exploring new technologies.
+Backend engineer with 6+ years of experience in Node.js and TypeScript. I've worked across healthcare, insurance, and a proxy platform. Most of my work lives in the parts users never see: payment systems, job queues, real-time event delivery, service communication. I care about code that holds up.
 
 ---
 
